@@ -1,0 +1,16 @@
+{
+  "name": "translator-lircremote101-aircon",
+  "version": "1.0.0",
+  "description": "Controls an air conditioner with BLE and infrared",
+  "dependencies": {
+    "@nodert-win10/windows.devices.bluetooth.genericattributeprofile": "0.2.2",
+    "@nodert-win10/windows.devices.enumeration": "0.2.2",
+    "@nodert-win10/windows.storage.streams": "0.2.2"
+  },
+  "devDependencies": {
+    "async": "~1.5.2",
+    "optimist": "0.6.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
